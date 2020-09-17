@@ -29,23 +29,25 @@ No. Each part of the site is indicating the exact function.
 
 **Is the content scannable?**
 
-Yes. The pages are break into different parts, each part is logical related, has its own heading. The reservation label is simple with select menu, no need for signing in. The paragraphs are brief, users can get the useful information very easily. 
+Yes. The pages are break into different parts, each part is logical related and has its own heading. In this site, the reservation label is simple with select menu, no need for signing in. The paragraphs are brief, users can get the useful information very easily. Pictures makes the whole websites getting more attractive. 
 
 **Is the body text readable? Are there any example of text with too low of a contrast ratio.**
 
 Yes. The text is readable.
-In this website,  The background color and the text color are mostly black& white, grey& black, the text color contrasts well with the background color.
+In this website, the background color and the text color are mostly black& white, grey& black, the text color contrasts well with the background color，in the meanwhile, contract does not dazzling at all.
 
 ## 3.Mobile Responsiveness
-**Is there a scroll track on mobile devices.**
+**Is there a scroll track on mobile devices?**
 
-There is no scroll track on mobil devices, only scroll thumb are visible. 
+There is no scroll track on mobil devices, only scroll thumb are visible.  
 
 **Does the business have an online menu? If so, is it responsive? Can the menu be bookmarked for use in a QR Code?**
 
-Yes, there is an online menu. The menu is for users to acknowledge the dishes of the restaurant but not for order. You can only look into it but unable to do next step. The menu also couldn’t be bookmarked for use in a QR Code.
+Yes, there is an online menu. The menu is for users to acknowledge the dishes of the restaurant but not for ordering. Users can only look into it but unable to do next step. The menu also couldn’t be bookmarked for use in a QR Code.
 
-When access to the mobile page, it is much slower than loading to the web page, it could exceed half a minute to load. Performance are pretty good in computer browsers but not that good in mobile browsers. 
+When access to the mobile page, it is much slower than loading to the web page, it could exceed half a minute to load. Performance are pretty good in computer browsers but not that good in mobile browsers(Both are using chrome). 
+
+The website looks still very fancy in mobile browsers, all the functions are working well, except the loading speed.
 
 
 
