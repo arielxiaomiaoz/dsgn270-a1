@@ -2,7 +2,7 @@
 # Assignment 1: Website Review
 
 [Pasquale's Italian Ristorante](https://www.pasqualesrest.com/)
->Pasquale’s Ristorante and Pizzeria has built its reputation on being a family run business that serves only the freshest ingredients in its home-cooked Italian dishes.----Pasquale's Italian Ristorante   
+>*Pasquale’s Ristorante and Pizzeria has built its reputation on being a family run business that serves only the freshest ingredients in its home-cooked Italian dishes.----Pasquale's Italian Ristorante   
 
 ## 1.Visual Hierarchy
 **What is your overall impression of the site visuals?**
@@ -16,7 +16,8 @@
 2. Online reservation. No need to sign in, customers can book a reservation through the reservation label, quick and easy.
 3. Provide specific location of the restaurant. By insert a google map of the restaurant, customers can know the restaurant's address more intuitively.
 
-** Does the website make effective use of visual hierarchy? Why or why not?**
+**Does the website make effective use of visual hierarchy? Why or why not?**
+
 Yes. The website make effective use of visual hierarchy.
 - The uniform font style. In this website, headings are using one same font style, the contents are using another font style, they look harmony. 
 - The different depth of field. In the reservation part of the page, the background are using a picture of the restaurant but in deep hue. In other parts of the page, using white or black background. These different colors distinguish the different areas and functions of the page, also bring the visual enjoyment.
