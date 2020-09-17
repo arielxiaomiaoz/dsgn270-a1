@@ -1,4 +1,3 @@
-# dsgn270-a1
 # Assignment 1: Website Review
 
 [Pasquale's Italian Ristorante](https://www.pasqualesrest.com/)
