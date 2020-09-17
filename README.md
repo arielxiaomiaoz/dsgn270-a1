@@ -2,7 +2,7 @@
 # Assignment 1: Website Review
 
 [Pasquale's Italian Ristorante](https://www.pasqualesrest.com/)
->*Pasquale’s Ristorante and Pizzeria has built its reputation on being a family run business that serves only the freshest ingredients in its home-cooked Italian dishes.----Pasquale's Italian Ristorante   
+>*Pasquale’s Ristorante and Pizzeria has built its reputation on being a family run business that serves only the freshest ingredients in its home-cooked Italian dishes.*----Pasquale's Italian Ristorante   
 
 ## 1.Visual Hierarchy
 **What is your overall impression of the site visuals?**
