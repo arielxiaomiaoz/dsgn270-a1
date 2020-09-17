@@ -5,7 +5,7 @@
 
 ## 1.Visual Hierarchy
 **What is your overall impression of the site visuals?**
-- The site is visually striking, by using the color of red tomatoes and yellow spaghetti, emphasis the main elements of the website is all about *Italian food*. As a user, I can feel the overall atmosphere of the restaurant through this website. 
+- The site is visually striking, by using the color of red tomatoes and yellow spaghetti, the banner emphasis the main elements of the website is all about *Italian food*. As a user, I can feel the overall atmosphere of the restaurant through this website. 
 - Through the headings in different areas of the page, the task of each part is obvious. The big link buttons are very easy to access, the position of the link buttons are located properly. The navigation is simple but clear.
 - Text are nested in different background, which indicates different functions.
 - This site gives me a good feeling that it is a carefully managed restaurant. Through the introduction and the menu I would like to try once.
